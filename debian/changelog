@@ -1,3 +1,9 @@
+norm (1.5.9+dfsg-2deepin1) unstable; urgency=medium
+
+  * Rebuild with LTO enabled (dpkg vendor feature optimize/lto).
+
+ -- tunaichao <tunaichao@uniontech.com>  Mon, 21 Sep 2026 15:57:05 +0800
+
 norm (1.5.9+dfsg-2) unstable; urgency=medium
 
   * Add build dependency on pkg-config
